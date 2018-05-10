@@ -1,0 +1,140 @@
+.App {
+  text-align: center;
+}
+
+.page-wrap {
+  background: #1238cc;
+  color: #fff;
+  padding: 40px;
+  height: 100vh;
+  position: relative;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-nav .logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-nav .logo svg {
+
+}
+
+.main-nav .logo span {
+
+}
+
+.links {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.links a {
+
+}
+
+.subscribe {
+
+}
+
+.btn {
+  background: transparent;
+  border: 1px solid #fff;
+  border-radius: 99px;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 11px;
+  padding: 15px 25px;
+}
+
+.center-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 75vh;
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.center-content .main-logo {
+
+}
+
+.center-content .main-header {
+  font-size: 3.5em;
+  letter-spacing: 2px;
+  margin: 20px auto;
+}
+
+.center-content .main-par {
+  font-weight: 100;
+  line-height: 2;
+  width: 80%;
+}
+
+.cta-btn {
+  margin: 30px auto;
+  background: #fff;
+  color: #1238cc;
+  font-weight: bold;
+  padding: 20px 30px;
+}
+
+.center-content .vertical-text {
+  position: absolute;
+  bottom: 100px;
+  left: 0px;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  /* text-orientation: upright; */
+  transform: rotate(-90deg);
+  text-align: left;
+}
+
+.center-content .scroll {
+  position: absolute;
+  bottom: 40px;
+  width: 100%;
+  font-weight: 100px;
+  text-align: center;
+}
+
+.center-content .scroll .vertical-line {
+  display: block;
+  clear: both;
+  height: 50px;
+  background-color: rgba(255,255,255,0.25);
+  width: 1px;
+  margin: 0 auto 30px;
+}
+
+.center-content .scroll a {
+
+}
+
+.center-content .social {
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+.center-content .social a {
+
+}
+

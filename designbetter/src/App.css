@@ -22,14 +22,6 @@
   align-items: center;
 }
 
-.main-nav .logo svg {
-
-}
-
-.main-nav .logo span {
-
-}
-
 .links {
   width: 50%;
   display: flex;
@@ -37,14 +29,6 @@
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 2px;
-}
-
-.links a {
-
-}
-
-.subscribe {
-
 }
 
 .btn {
@@ -67,10 +51,6 @@
   width: 90%;
   max-width: 900px;
   margin: 0 auto;
-}
-
-.center-content .main-logo {
-
 }
 
 .center-content .main-header {
@@ -100,7 +80,6 @@
   font-size: 11px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  /* text-orientation: upright; */
   transform: rotate(-90deg);
   text-align: left;
 }
@@ -122,19 +101,11 @@
   margin: 0 auto 30px;
 }
 
-.center-content .scroll a {
-
-}
-
 .center-content .social {
   position: absolute;
   bottom: 40px;
   right: 40px;
   display: flex;
   flex-direction: column;
-}
-
-.center-content .social a {
-
 }
 
